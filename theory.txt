@@ -1,0 +1,7 @@
+Reason why we shall choose the Golang 
+
+1. build time 
+2. Fast startup
+3. Performance and effiencency 
+4. Concurrency 
+5. Static typing and compilation 
